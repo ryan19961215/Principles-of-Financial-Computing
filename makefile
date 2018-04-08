@@ -1,3 +1,3 @@
 make:
-	gcc -o hw1 main.c
+	gcc -o hw1 HW1.c
 	./hw1 
